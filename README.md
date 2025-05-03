@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kaviya-moorthy/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 ## Binary Search
@@ -69,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

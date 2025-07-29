@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kaviya-moorthy/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kaviya-moorthy/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Kaviya-moorthy/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

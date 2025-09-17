@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 ## Matrix
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0206-reverse-linked-list) |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

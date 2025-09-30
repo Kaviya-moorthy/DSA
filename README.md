@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kaviya-moorthy/DSA/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Kaviya-moorthy/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,4 +155,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaviya-moorthy/DSA/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->

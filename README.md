@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Kaviya-moorthy/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kaviya-moorthy/DSA/tree/master/0125-valid-palindrome) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kaviya-moorthy/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0160-intersection-of-two-linked-lists) |

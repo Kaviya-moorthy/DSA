@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kaviya-moorthy/DSA/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0064-minimum-path-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Kaviya-moorthy/DSA/tree/master/0088-merge-sorted-array) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Kaviya-moorthy/DSA/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/3336-water-bottles-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

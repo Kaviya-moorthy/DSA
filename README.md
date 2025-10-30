@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaviya-moorthy/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Kaviya-moorthy/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0794-swim-in-rising-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kaviya-moorthy/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

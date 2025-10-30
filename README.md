@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaviya-moorthy/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kaviya-moorthy/DSA/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaviya-moorthy/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |

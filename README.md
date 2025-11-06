@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kaviya-moorthy/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Kaviya-moorthy/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kaviya-moorthy/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->

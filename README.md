@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kaviya-moorthy/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0794-swim-in-rising-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0794-swim-in-rising-water) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Kaviya-moorthy/DSA/tree/master/2827-greatest-common-divisor-traversal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
 | ------- |

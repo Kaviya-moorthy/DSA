@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kaviya-moorthy/DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Kaviya-moorthy/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Kaviya-moorthy/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kaviya-moorthy/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kaviya-moorthy/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Kaviya-moorthy/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Kaviya-moorthy/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0213-house-robber-ii) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kaviya-moorthy/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

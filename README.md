@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kaviya-moorthy/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kaviya-moorthy/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kaviya-moorthy/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Kaviya-moorthy/DSA/tree/master/1642-water-bottles) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Kaviya-moorthy/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kaviya-moorthy/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Kaviya-moorthy/DSA/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 | [0794-swim-in-rising-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0794-swim-in-rising-water) |
 ## Divide and Conquer
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0327-count-of-range-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Kaviya-moorthy/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/Kaviya-moorthy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0794-swim-in-rising-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0794-swim-in-rising-water) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Kaviya-moorthy/DSA/tree/master/2827-greatest-common-divisor-traversal) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Kaviya-moorthy/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kaviya-moorthy/DSA/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Kaviya-moorthy/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

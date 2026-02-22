@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Kaviya-moorthy/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Kaviya-moorthy/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaviya-moorthy/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0794-swim-in-rising-water](https://github.com/Kaviya-moorthy/DSA/tree/master/0794-swim-in-rising-water) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Kaviya-moorthy/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Kaviya-moorthy/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kaviya-moorthy/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0503-next-greater-element-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kaviya-moorthy/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0503-next-greater-element-ii) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kaviya-moorthy/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |

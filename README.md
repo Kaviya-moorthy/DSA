@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaviya-moorthy/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Kaviya-moorthy/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Kaviya-moorthy/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaviya-moorthy/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kaviya-moorthy/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Kaviya-moorthy/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaviya-moorthy/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Kaviya-moorthy/DSA/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Kaviya-moorthy/DSA/tree/master/0383-ransom-note) |
 ## Memoization
 |  |
 | ------- |

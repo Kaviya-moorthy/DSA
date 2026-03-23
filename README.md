@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Kaviya-moorthy/DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaviya-moorthy/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kaviya-moorthy/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaviya-moorthy/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Kaviya-moorthy/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kaviya-moorthy/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaviya-moorthy/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaviya-moorthy/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Queue
 |  |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kaviya-moorthy/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Kaviya-moorthy/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Kaviya-moorthy/DSA/tree/master/0183-customers-who-never-order) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaviya-moorthy/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

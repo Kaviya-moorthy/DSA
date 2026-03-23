@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kaviya-moorthy/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Kaviya-moorthy/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kaviya-moorthy/DSA/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/Kaviya-moorthy/DSA/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kaviya-moorthy/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kaviya-moorthy/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/Kaviya-moorthy/DSA/tree/master/1642-water-bottles) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaviya-moorthy/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Kaviya-moorthy/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kaviya-moorthy/DSA/tree/master/0213-house-robber-ii) |
+| [0343-integer-break](https://github.com/Kaviya-moorthy/DSA/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/Kaviya-moorthy/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Tree
 |  |
